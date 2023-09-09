@@ -1,0 +1,4 @@
+interface Calci
+{
+  void add(int a,int b);
+}
