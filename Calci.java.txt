@@ -2,3 +2,7 @@ interface Calci
 {
   void add(int a,int b);
 }
+class Calciimple Implements Calci
+{
+public int add(int a,int b)
+}
